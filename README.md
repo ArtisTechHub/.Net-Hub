@@ -91,7 +91,6 @@ A collection of .NET libraries, tools, frameworks, and software.
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
   * [Windows Services](#windows-services)
-  * [Other Lists](#other-lists)
 
 
 * [Resources](#resources)
@@ -722,5 +721,4 @@ metadata in media files, including video, audio, and photo formats
 
 * [WebSocket4NET](https://websocket4net.codeplex.com) - WebSocket client for .NET 2.0+, Xamarin, Mono, Silverlight, Windows Phone, & WinRT
 * [Crossertech](http://crossertech.com/) - Provides a great set of tools for you to build real-time applications on the Microsoft.NET plattform and much more. **[$]**
-
 
