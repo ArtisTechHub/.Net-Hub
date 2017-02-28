@@ -3,8 +3,6 @@
 
 A collection of .NET libraries, tools, frameworks, and software.
 
-
-* [Awesome DotNet](#awesome-dotnet)
   * [Algorithms and Data Structures](#algorithms-and-data-structures)
   * [API](#api)
   * [Application Frameworks](#application-frameworks)
